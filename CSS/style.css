@@ -50,7 +50,7 @@
     width: 200;
     right: -300px;
     top: 200px;
-
+    transition: 2s;
     
 }
 .elaina:hover {
